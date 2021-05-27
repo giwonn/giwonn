@@ -28,9 +28,6 @@
    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/>
    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=black"/>
     
-### ...
-
-    
 ### My stats 🤓
   
 ![Giwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4279625&show_icons=true)
