@@ -30,12 +30,6 @@
     
 ### ...
 
-### Platform🤹   
-<div align='center'>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  
-  </div>
-<p></p>
     
 ### My stats 🤓
   
