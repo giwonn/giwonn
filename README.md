@@ -1,5 +1,3 @@
-<p align="center">늦더라도 개의치 않고 자신의 목표를 이루어내는 것이 중요하다고 생각합니다.</p>  
-
 
 
 <div align='center'>
