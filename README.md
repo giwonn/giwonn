@@ -1,3 +1,7 @@
+Welcome to Giwon's github.  
+I'm Studying for a full-stack developer.  
+If you want to know about me, contact me anytime :)
+
 
 <div align='center'>
   
