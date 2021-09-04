@@ -1,8 +1,10 @@
-<center>
-Welcome to Giwon's github.  
+<div align='center'>
+Welcome to Giwon's github.
+<br>
 I'm Studying for a full-stack developer.  
+<br>
 If you want to know about me, contact me anytime :)
-</center>
+</div align='center'>
 
 <div align='center'>
   
