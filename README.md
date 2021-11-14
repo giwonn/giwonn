@@ -3,10 +3,10 @@
  ## :wave:Contact:wave:
  
  
- ### <a href="https://giwonn.github.io/TIL" target="_blank"><b>TIL & 기술 블로그</b></a>
+ ### [TIL & 기술 블로그](https://giwonn.github.io/TIL)
  
  
- ### <a href="https://l4279625.tistory.com" target="_blank"><b>일상 블로그</b></a>
+ ### [일상 블로그](https://l4279625.tistory.com)
  
  <br>
  
