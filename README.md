@@ -1,12 +1,9 @@
 <div align='center'>
  
- ## :wave:Contact:wave:
+ ### [Github 블로그](https://giwon.dev/TIL)
  
  
- ### [TIL & 개발노트](https://giwonn.github.io)
- 
- 
- ### [일상 블로그](https://l4279625.tistory.com)
+ ### [티스토리 블로그](https://l4279625.tistory.com)
  
  <br>
  
